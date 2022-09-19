@@ -1,7 +1,7 @@
 backend:
-  name: https://github.com/Xo323/gatsby-starter-delog
+  name: 
   # change repo to your git repository url
-  repo: W3Layouts/gatsby-starter-delog
+  repo: xo323/gatsby-starter-delog
 
 media_folder: static/assets
 public_folder: /assets
