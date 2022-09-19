@@ -1,5 +1,5 @@
 backend:
-  name: 
+  name: gatsby-starter-delog
   # change repo to your git repository url
   repo: xo323/gatsby-starter-delog
 
